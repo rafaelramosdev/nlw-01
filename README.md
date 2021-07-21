@@ -84,7 +84,7 @@ $ cd web
 # Instala as dependências
 $ npm install
 
-# Inicia a versão web
+# Inicia o website
 $ npm run start
 ```
 
