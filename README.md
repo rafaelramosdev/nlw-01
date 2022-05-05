@@ -33,7 +33,7 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 
 O Ecoleta foi desenvolvido com base na semana internacional do meio ambiente e tem o objetivo de conectar pessoas com empresas que coletam resíduos específicos como lâmpadas, pilhas, óleo de cozinha etc.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 01 a 07 de Junho de 2020.
+Este é um projeto desenvolvido durante a **[Next Level Week #01](https://nextlevelweek.com/)**, apresentada nos dias 01 a 07 de Junho de 2020.
 
 ## 🔖 Layout
 
